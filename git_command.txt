@@ -6,3 +6,4 @@ git status
 git restore filename
 rm filename
 git push origin master
+git pull origin master
