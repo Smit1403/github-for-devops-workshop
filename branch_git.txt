@@ -1,0 +1,5 @@
+git branch
+git branch dev
+git switch dev
+git logs --oneline
+git logs
